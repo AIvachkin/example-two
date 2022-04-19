@@ -7,7 +7,7 @@ public class Main {
         float e = 2.78454f;
         double f = -34.45127865324;
         char g = 43;
-        boolean h = a > 7;
+        boolean h = a > 8;
         System.out.println (h);
         System.out.println(g);
     }
